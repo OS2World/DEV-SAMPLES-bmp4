@@ -1,0 +1,9 @@
+file AppDefs.Obj
+file GetBmp.Obj
+file MakePtr.Obj
+file OpenDlg.Obj
+file Support.Obj
+file ViewDlg.Obj
+file ViewWnd.Obj
+name MakePtr.Exe
+@WATCOM.Def

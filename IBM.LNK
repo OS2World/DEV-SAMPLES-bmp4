@@ -1,0 +1,4 @@
+MakePtr.Obj AppDefs.Obj GetBmp.Obj OpenDlg.Obj Support.Obj ViewDlg.Obj
+ViewWnd.Obj
+/OUT:MakePtr.Exe
+MakePtr.Def

@@ -1,0 +1,5 @@
+C02  AppDefs GetBmp MakePtr OpenDlg Support ViewDlg ViewWnd
+MakePtr.Exe
+
+OS2.LIB C2.LIB
+MakePtr.Def
